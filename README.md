@@ -5,7 +5,6 @@ This project implements a **Network Monitoring System** in **C++** using **raw s
 It captures, filters, dissects, and replays live network packets in real time using **custom-built data structures** (stack and queue).  
 Developed for a Linux environment, it demonstrates how data structures support efficient network traffic management.
 
----
 
 ## Features
 - Continuous packet capture via raw sockets  
@@ -15,7 +14,6 @@ Developed for a Linux environment, it demonstrates how data structures support e
 - Backup queue for failed replays  
 - Real-time display of packet information  
 
----
 
 ## Requirements
 - **C++11 or later**  
@@ -23,7 +21,6 @@ Developed for a Linux environment, it demonstrates how data structures support e
 - **Linux environment** (native or via VirtualBox)  
 - **Make utility** for compilation  
 
----
 
 ## Setup & Execution
 
@@ -61,6 +58,8 @@ Developed for a Linux environment, it demonstrates how data structures support e
 Observe captured packets in the terminal output.
 
 # Author
+
 Ali Ahsan
-Data Structures & Algorithms - Assignment 2
+
 National University of Sciences and Technology (NUST)
+
